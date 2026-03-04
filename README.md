@@ -1,0 +1,1 @@
+# smart-event-management-app
